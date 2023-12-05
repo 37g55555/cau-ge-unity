@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/First.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Car.unity
+    guid: 493e17fb1692e20418573f5c971927e8
+  - enabled: 1
+    path: Assets/Scenes/Duck.unity
+    guid: f33802e163802384c889cbcce876440b
+  - enabled: 1
+    path: Assets/Scenes/Soccerball.unity
+    guid: 535931c157bbabd40963527a6a397f4e
+  - enabled: 1
+    path: Assets/Scenes/Gun.unity
+    guid: e48860a6d0f931a4c8e6834bfa700167
+  - enabled: 1
+    path: Assets/Scenes/Robot.unity
+    guid: df8999b055aac6545b00657df6cbdac7
+  - enabled: 1
+    path: Assets/Scenes/Monkey.unity
+    guid: 7fccbc31453cdc74c8b46a1a61a3d0dd
+  m_configObjects: {}
