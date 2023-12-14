@@ -594,7 +594,7 @@ VideoPlayer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 446027666}
   m_Enabled: 1
-  m_VideoClip: {fileID: 32900000, guid: 6aa65e271d391fc4a9b02a78e023bdb9, type: 3}
+  m_VideoClip: {fileID: 32900000, guid: ddfa44d7c5497fd458aefbc167b0157d, type: 3}
   m_TargetCameraAlpha: 1
   m_TargetCamera3DLayout: 0
   m_TargetCamera: {fileID: 0}
@@ -1981,7 +1981,7 @@ ParticleSystem:
     startSize:
       serializedVersion: 2
       minMaxState: 0
-      scalar: 0.3
+      scalar: 0.5
       minScalar: 1
       maxCurve:
         serializedVersion: 2
@@ -6870,7 +6870,7 @@ ParticleSystem:
     startSize:
       serializedVersion: 2
       minMaxState: 0
-      scalar: 0.3
+      scalar: 0.5
       minScalar: 1
       maxCurve:
         serializedVersion: 2
